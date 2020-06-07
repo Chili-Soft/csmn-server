@@ -1,0 +1,5 @@
+bot_token.py
+py3/
+*.pyc
+__pycache__
+
